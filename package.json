@@ -1,11 +1,11 @@
 {
-  "name": "mrx-baileys-store",
-  "version": "2.0.5",
+  "name": "yooga-baileys-store",
+  "version": "2.0.12",
   "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/Marcoant007/baileys-store.git",
-  "author": "Marcoant (https://github.com/Marcoant007) ",
+  "repository": "https://github.com/yooga-tecnologia/mrx-baileys-store",
+  "author": "Cassiano",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
